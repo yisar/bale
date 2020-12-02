@@ -1,0 +1,2 @@
+# bale
+Zero configuration builder.
